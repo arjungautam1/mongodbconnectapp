@@ -24,7 +24,7 @@ To run this application locally, follow these steps:
     npm install
     ```
 
-4. Set up your MongoDB connection string in the `config.js` file.
+4. Set up your MongoDB connection string in the `.env` file.
 
 ## Usage
 
